@@ -1,0 +1,8 @@
+.container {
+  background: url(../images/bg.png);
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+}
