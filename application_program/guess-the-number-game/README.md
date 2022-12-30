@@ -6,21 +6,15 @@
 ❯ python3 main.py
 
 please enter the min number: 1
-please enter the max number: 10
-Please enter a number between 1 and 10: 3
-Your guess is too lowPlease enter a number between 1 and 10: 5
-Your guess is too lowPlease enter a number between 1 and 10: 6
-Your guess is too lowPlease enter a number between 1 and 10: 7
-Your guess is too lowPlease enter a number between 1 and 10: 8
-Your guess is too lowPlease enter a number between 1 and 10: 9
-Your guess is too lowPlease enter a number between 1 and 10: 10
-You guessed the number!
-
-❯ python3 main.py
-
-please enter the min number: 1
-please enter the max number: 2
-Please enter a number between 1 and 2: 2
-Your guess is too highPlease enter a number between 1 and 2: 1
-You guessed the number!
+please enter the max number: 20
+Please enter a number between 1 and 20: 3
+Your guess is too low
+Please enter a number between 1 and 20: 10
+Your guess is too high
+Please enter a number between 1 and 20: 8
+Your guess is too high
+Please enter a number between 1 and 20: 7
+Your guess is too high
+Please enter a number between 1 and 20: 6
+You guessed the number!  
 ```

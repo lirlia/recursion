@@ -42,9 +42,9 @@ def main():
             myPrint("You guessed the number!")
             sys.exit(0)
         elif guess > randNum:
-            myPrint("Your guess is too high")
+            myPrint("Your guess is too high\n")
         else:
-            myPrint("Your guess is too low")
+            myPrint("Your guess is too low\n")
 
 
 if __name__ == "__main__":
